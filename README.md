@@ -1,82 +1,28 @@
+# 📄 Curriculum Vitae
 
-<div align="center">
+## 👋 Tentang Saya
 
-# CURRICULUM VITAE
+Halo! Saya mahasiswa Teknik Informatika yang sedang mempelajari pemrograman web dan pengembangan aplikasi. Saya tertarik mempelajari HTML, CSS, Python, serta teknologi informasi untuk mengembangkan kemampuan di bidang IT.
 
-[![LIHAT CV LENGKAP](https://img.shields.io/badge/LIHAT_CV_LENGKAP-2F80ED?style=for-the-badge)](Pertemua%202/index.html)
+## 👨‍💻 Informasi Profil
 
-</div>
+* **Jurusan:** Teknik Informatika
+* **Bidang Minat:** Web Development
+* **Bahasa Pemrograman:** HTML, CSS, Python
 
-<table>
-<tr>
-<td width="75%" valign="top">
+## 📂 File CV
 
-# GAZHA ABIYYU AS'AD
+Klik tautan berikut untuk membuka file CV saya:
 
-No.tlpn: 0881xxxxxx3
+[**➡️ Buka CV Saya**](./Pertemua%202/index.html)
 
-Email: gaxxxxx@gmail.com
+## 🛠️ File Proyek
 
-Alamat: Ponorogo
-
-</td>
-<td width="25%" align="center" valign="top">
-
-<img src="Pertemua%202/Foto.jpg" width="130" alt="Foto profil Gazha Abiyyu As'ad">
-
-</td>
-</tr>
-</table>
+* [📁 Folder Pertemua 2](./Pertemua%202/)
+* [🌐 File HTML](./Pertemua%202/index.html)
+* [🎨 File CSS](./Pertemua%202/style.css)
+* [🖼️ Foto Profil](./Pertemua%202/Foto.jpg)
 
 ---
 
-## PROFIL
-
-Mahasiswa Teknik Informatika dengan latar belakang pengetahuan di bidang Teknik Komputer dan Jaringan (TKJ). Memiliki minat dalam pemrograman, pengembangan web, jaringan komputer, dan teknologi informasi. Pribadi yang disiplin, bertanggung jawab, mampu bekerja sama dalam tim, serta memiliki motivasi tinggi untuk terus belajar dan mengembangkan keterampilan di bidang IT.
-
----
-
-## PENGALAMAN
-
-**Organisasi dan Kegiatan**
-
-- Menjadi kader Ikatan Mahasiswa Muhammadiyah (IMM).
-- Mengikuti kepanitiaan IMM sebagai Humas.
-- Menjadi anggota dan ketua Organisasi Siswa Intra Sekolah (OSIS).
-- Melaksanakan PKL di servis komputer.
-- Menjadi Panitia MASTAMARU 2026.
-
----
-
-## PENDIDIKAN
-
-**Universitas Muhammadiyah Ponorogo**  
-S1 Teknik Informatika — Sekarang
-
-**SMKN Sawoo**  
-Teknik Komputer dan Jaringan (TKJ) — 2022–2025
-
-**SMPN 2 Sambit**  
-2019–2022
-
-**SDN Kemuning**  
-2013–2019
-
----
-
-## KEAHLIAN
-
-- Dasar pemrograman Python
-- Dasar HTML dan CSS
-- Instalasi dan konfigurasi jaringan
-- Troubleshooting komputer
-- Instalasi sistem operasi
-- Bermain volly
-- Kerja sama tim dan disiplin
-
----
-
-## BAHASA
-
-- Bahasa Indonesia
-- Bahasa Inggris (dasar)
+© 2026 - Curriculum Vitae | Teknik Informatika
