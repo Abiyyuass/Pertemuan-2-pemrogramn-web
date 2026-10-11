@@ -1,8 +1,5 @@
 # Pertemuan-2-pemrogramn-web
 Pengumpulan tugas pemrograman web pembuatan cv
-# Pertemuan-2-pemrogramn-web
-
-Pengumpulan tugas pemrograman web pembuatan cv
 
 ## 📂 Isi Tugas Pertemuan 2:
 * 📄 [Buka File HTML (index.html)](./Pertemua%202/index.html)
